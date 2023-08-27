@@ -8,7 +8,7 @@ public class Test1
 	@Test
 	public void method1()
 	{
-		Reporter.log("Hello sleepers ---- wokeup");
+		System.out.println("Hello sleepers ---- wokeup");
 		
 	}
 }
