@@ -11,6 +11,6 @@ public class Test2 {
 		int a=4;
 		int b=5;
 		int c=a+b;
-		Reporter.log(c+"-----"+"");
+		System.out.println(c+"-----"+"");
 	}
 }
