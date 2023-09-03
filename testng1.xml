@@ -4,6 +4,7 @@
   <test thread-count="5" name="Regression Test" parallel="classes">
     <classes>
       <class name="tests.Test1"/>
+      <class name="tests.Test2"/>
     </classes>
   </test> 
 </suite> 
