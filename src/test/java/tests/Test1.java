@@ -8,6 +8,6 @@ public class Test1
 	@Test
 	public void method1()
 	{
-		System.out.println("Hello sleepers ------------ wokeup");
+		System.out.println("Hello sleepers ------------------------------------------- wokeup");
 	}
 }
