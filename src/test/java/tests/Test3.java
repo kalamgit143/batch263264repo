@@ -18,7 +18,7 @@ public class Test3 {
 		{
 			reversename=reversename+name.charAt(i);
 		}
-		Reporter.log(reversename);
+		System.out.println(reversename);
 		System.out.println(reversename);
 	}
 
